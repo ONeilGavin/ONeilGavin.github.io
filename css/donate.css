@@ -52,6 +52,10 @@ a:link, a:visited, a:hover, a:active {
     margin-left: 1vw;
 }
 
+li a {
+    font-size: 1.5em;
+}
+
 /*Clearfix*/
 .clearfix::after {
     content: "";
