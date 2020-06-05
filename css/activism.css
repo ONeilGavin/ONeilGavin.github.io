@@ -27,7 +27,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .card h2 {
-    padding-left: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
     margin-bottom: 0vw;
 }
 
@@ -47,7 +48,8 @@ a:link, a:visited, a:hover, a:active {
 
 .container p {
     font-size: 1.2em;
-    padding-left: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
 
 /*Clearfix*/
