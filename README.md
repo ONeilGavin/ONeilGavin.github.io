@@ -4,6 +4,8 @@ and ways to get involved locally.
 
 <a href="http://oneilgavin.github.io/" target="_blank">Go to the site here</a>
 
+Also included is the code that I used to track the trends of posts related to BLM on Twitter and Instagram.
+
 ## Contributing
 Feel free to make a pull request with new content.
 
